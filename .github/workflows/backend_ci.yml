@@ -144,3 +144,4 @@ jobs:
     - name: Logout from Azure
       run: az logout
       if: always()
+# ci-trigger 29-08-2025 11:53:05.94
